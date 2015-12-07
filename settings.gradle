@@ -1,0 +1,2 @@
+rootProject.name = "JavaActiveRecord-Parent"
+include "JavaActiveRecord", "JavaActiveRecord-Example"
